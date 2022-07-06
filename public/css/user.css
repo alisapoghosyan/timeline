@@ -1,0 +1,12 @@
+.userModal {
+	background-color: aliceblue;
+	position: absolute;
+	z-index: 1;
+	right: 5%;
+	top: 5%;
+	width: 500px;
+	height: 150px;
+	text-align: center;
+	visibility: hidden;
+}
+
